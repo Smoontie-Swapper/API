@@ -1,0 +1,23 @@
+[
+    {
+        "Name":"Redshield To Black Shield",
+        "Icon":"https://fortnite-api.com/images/cosmetics/br/BID_004_BlackKnight/icon.png",
+        "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/BID_003_RedKnight/icon.png",
+        "Type":"Backbling",
+        "Message": "false",
+        "Assets": [
+            {
+                "CompressionType": "oodle",
+                "AssetPath": "/Game/Characters/CharacterParts/Backpacks/Male_Commando_BlackKnight_V01",
+                "AssetUcas": "pakchunk10_s4-WindowsClient",
+                "Swaps": [
+                  {
+                    "type": "string",
+                    "search": "/Game/Accessories/FORT_Backpacks/Materials/Male_Commando_BR_BlackknightV01.Male_Commando_BR_BlackknightV01",
+                    "replace": "/Game/Accessories/FORT_Backpacks/Materials/Male_Commando_BR_Blackknight.Male_Commando_BR_Blackknight"
+                  }
+                ]
+              }
+        ]
+    }
+]
