@@ -9,7 +9,7 @@
          {
             "CompressionType":"oodle",
             "AssetPath":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderFire",
-            "AssetUcas":"pakchunk10_s4-WindowsClient",
+            "AssetUcas":"pakchunk10-WindowsClient",
             "Swaps":[
                {
                   "type":"string",
@@ -31,7 +31,7 @@
          {
             "CompressionType":"oodle",
             "AssetPath":"/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_RenegadeRaiderFire",
-            "AssetUcas":"pakchunk10_s5-WindowsClient",
+            "AssetUcas":"pakchunk10-WindowsClient",
             "Swaps":[
                {
                   "type":"string",
@@ -43,7 +43,7 @@
          {
             "CompressionType":"oodle",
             "AssetPath":"/Game/Characters/CharacterParts/Hats/CP_Hat_F_Commando_RenegadeRaiderFire",
-            "AssetUcas":"pakchunk10_s5-WindowsClient",
+            "AssetUcas":"pakchunk10-WindowsClient",
             "Swaps":[
                {
                   "type":"string",
