@@ -1,57 +1,57 @@
 [
    {
-      "Name":"Blaze To Renegade Raider",
-      "Icon":"https://fortnite-api.com/images/cosmetics/br/CID_028_Athena_Commando_F/icon.png",
-      "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/icon.png",
-      "Type":"Skin",
-      "Message":"false",
-      "Assets":[
-         {
-            "CompressionType":"oodle",
-            "AssetPath":"/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderFire",
-            "AssetUcas":"pakchunk10-WindowsClient",
-            "Swaps":[
-               {
-                  "type":"string",
-                  "search":"/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Body.MI_F_MED_Renegade_Raider_Fire_Body",
-                  "replace":"/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20"
-               },
-               {
-                  "type":"string",
-                  "search":"/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/RenegadeRaider_Fire/NS_RenegadeRaider_Fire.NS_RenegadeRaider_Fire",
-                  "replace":"/Game/Athena/Effects/Particles/Gliders/P_Glider_EmptyParticleSystem.P_Glider_EmptyParticleSystem"
-               },
-               {
-                  "type":"string",
-                  "search":"/Game/Athena/Cosmetics/Blueprints/Part_Modifiers/B_Athena_PartModifier_RenegadeRaider_Fire.B_Athena_PartModifier_RenegadeRaider_Fire_C",
-                  "replace":"/Game/Athena/Effects/Particles/Gliders/P_Glider_EmptyParticleSystem.P_Glider_EmptyParticleSystem"
-               }
+        "Name": "Blaze To Renegade Raider",
+        "Icon": "https://fortnite-api.com/images/cosmetics/br/CID_028_Athena_Commando_F/icon.png",
+        "Swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/icon.png",
+        "Type": "Skin:Option",
+        "Message": "false",
+        "Assets": [
+          {
+            "CompressionType": "oodle",
+            "AssetPath": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderFire",
+            "AssetUcas": "pakchunk10-WindowsClient",
+            "Swaps": [
+              {
+                "type": "string",
+                "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Body.MI_F_MED_Renegade_Raider_Fire_Body",
+                "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20"
+              },
+              {
+                "type": "string",
+                "search": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/RenegadeRaider_Fire/NS_RenegadeRaider_Fire.NS_RenegadeRaider_Fire",
+                "replace": "/Game/Athena/Effects/Particles/Gliders/P_Glider_EmptyParticleSystem.P_Glider_EmptyParticleSystem"
+              },
+              {
+                "type": "string",
+                "search": "/Game/Athena/Cosmetics/Blueprints/Part_Modifiers/B_Athena_PartModifier_RenegadeRaider_Fire.B_Athena_PartModifier_RenegadeRaider_Fire_C",
+                "replace": "/Game/Athena/Effects/Particles/Gliders/P_Glider_EmptyParticleSystem.P_Glider_EmptyParticleSystem"
+              }
             ]
-         },
-         {
-            "CompressionType":"oodle",
-            "AssetPath":"/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_RenegadeRaiderFire",
-            "AssetUcas":"pakchunk10-WindowsClient",
-            "Swaps":[
-               {
-                  "type":"string",
-                  "search":"/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Head.MI_F_MED_Renegade_Raider_Fire_Head",
-                  "replace":"/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Materials/F_MED_ASN_Sarah_Head_02.F_MED_ASN_Sarah_Head_02"
-               }
+          },
+          {
+            "CompressionType": "oodle",
+            "AssetPath": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_RenegadeRaiderFire",
+            "AssetUcas": "pakchunk10-WindowsClient",
+            "Swaps": [
+              {
+                "type": "string",
+                "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Head.MI_F_MED_Renegade_Raider_Fire_Head",
+                "replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Materials/F_MED_ASN_Sarah_Head_02.F_MED_ASN_Sarah_Head_02"
+              }
             ]
-         },
-         {
-            "CompressionType":"oodle",
-            "AssetPath":"/Game/Characters/CharacterParts/Hats/CP_Hat_F_Commando_RenegadeRaiderFire",
-            "AssetUcas":"pakchunk10-WindowsClient",
-            "Swaps":[
-               {
-                  "type":"string",
-                  "search":"/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_FaceAcc.MI_F_MED_Renegade_Raider_Fire_FaceAcc",
-                  "replace":"/Game/Accessories/Hats/Materials/Female_Commando_07_V01.Female_Commando_07_V01"
-               }
+          },
+          {
+            "CompressionType": "oodle",
+            "AssetPath": "/Game/Characters/CharacterParts/Hats/CP_Hat_F_Commando_RenegadeRaiderFire",
+            "AssetUcas": "pakchunk10-WindowsClient",
+            "Swaps": [
+              {
+                "type": "string",
+                "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_FaceAcc.MI_F_MED_Renegade_Raider_Fire_FaceAcc",
+                "replace": "/Game/Accessories/Hats/Materials/Female_Commando_07_V01.Female_Commando_07_V01"
+              }
             ]
-         }
-      ]
-   }
+          }
+        ]
+      },
 ]
